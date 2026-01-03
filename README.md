@@ -10,7 +10,7 @@ Beyond development, I’m deeply interested in the **SaaS ecosystem**—how idea
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,tailwind,c,php,figma,vscode,git,github,pip,bootstrap,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,tailwind,c,php,figma,vscode,git,github,pip,bootstrap,npm,python)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=padhip10&theme=dark&hide_border=true)<br/>
@@ -19,4 +19,5 @@ Beyond development, I’m deeply interested in the **SaaS ecosystem**—how idea
 
 
 ## 📫 Connect With Me
-[![LinkedIn](linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+
