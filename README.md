@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hey! I'm **Adhip Pathak**, a curious and driven second-year BCSIT student at **The British College**, currently immersed in the world of **Python Developer**.
+Hey! I'm **Adhip Pathak**, a curious and driven second-year BCSIT student at **The British College**, currently immersed in the world of **Python Programmer**.
 
 I’m specializing in the **Flask** , with a focus on building scalable, user-centric web applications. My learning approach is project-based. I believe in writing real code, solving real problems, and iterating fast.
 
